@@ -1,8 +1,27 @@
-# React + Vite
+# react-mini-shop
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Ini adalah proyek latihan yang dibuat untuk menirukan tampilan dan fungsionalitas dari [[Nama Situs](https://www.namasitus.com)](https://github.com/BosNaufal/vue-mini-shop). Proyek ini dibuat sebagai bagian dari pembelajaran untuk meningkatkan keterampilan react.
 
-Currently, two official plugins are available:
+## Deskripsi
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Tampilan halaman utama dengan daftar produk.
+- Halaman detail produk yang menampilkan informasi rinci tentang produk tertentu.
+- Keranjang belanja yang menyimpan produk yang telah dipilih oleh pengguna.
+- Proses checkout untuk menyelesaikan pembelian.
+
+Konsep state digunakan untuk mengelola data dinamis dalam aplikasi, seperti daftar produk, informasi keranjang belanja, dan status proses checkout.
+Konsep context juga digunakan untuk mengelola state yang digunakan di banyak komponen.
+
+## Teknologi
+
+- HTML
+- React
+- Tailwind
+
+## Instalasi dan Penggunaan
+
+1. Clone repositori ini ke dalam sistem lokal Anda:
+
+```bash
+git clone https://github.com/rzkyalbani/react-mini-shop.git
+npm run dev
