@@ -24,5 +24,9 @@ Konsep context juga digunakan untuk mengelola state yang digunakan di banyak kom
 
 ```bash
 git clone https://github.com/rzkyalbani/react-mini-shop.git
+
 cd react-mini-shop
+
+npm install
+
 npm run dev
