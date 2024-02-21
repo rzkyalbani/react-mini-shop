@@ -22,8 +22,6 @@ Konsep context juga digunakan untuk mengelola state yang digunakan di banyak kom
 
 ## Instalasi dan Penggunaan
 
-1. Clone repositori ini ke dalam sistem lokal Anda:
-
 ```bash
 git clone https://github.com/rzkyalbani/react-mini-shop.git
 cd react-mini-shop
