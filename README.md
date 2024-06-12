@@ -1,32 +1,41 @@
-# react-mini-shop
 
-Ini adalah proyek latihan yang dibuat untuk menirukan tampilan dan fungsionalitas dari [Bos Naufal](https://github.com/BosNaufal/vue-mini-shop)
-. Proyek ini dibuat sebagai bagian dari pembelajaran untuk meningkatkan keterampilan react.
+# React Mini Shop
 
-## Deskripsi
+React Mini Shop adalah aplikasi toko online sederhana yang dibuat menggunakan React dan React Hooks seperti `useState`, `useEffect`, dan `useRef`. Aplikasi ini juga memanfaatkan `localStorage` untuk menyimpan data barang yang ditambahkan oleh pengguna.
 
-- Tampilan halaman utama dengan daftar produk.
-- Halaman detail produk yang menampilkan informasi rinci tentang produk tertentu.
-- Keranjang belanja yang menyimpan produk yang telah dipilih oleh pengguna.
-- Proses checkout untuk menyelesaikan pembelian.
 
-Konsep state digunakan untuk mengelola data dinamis dalam aplikasi, seperti daftar produk, informasi keranjang belanja, dan status proses checkout.
 
-Konsep context juga digunakan untuk mengelola state yang digunakan di banyak komponen.
+## Features
 
-## Teknologi
+- Menambahkan barang
+- Menghapus barang
+- Checkout
 
-- HTML
-- React
-- Tailwind
 
-## Instalasi dan Penggunaan
+## Tech Stack
+  React, TailwindCSS
+
+
+## Installation
+
+Install my-project with npm
 
 ```bash
-git clone https://github.com/rzkyalbani/react-mini-shop.git
+  git clone https://github.com/rzkyalbani/react-mini-shop.git
+  
+  cd react-mini-shop
 
-cd react-mini-shop
+  npm install
+  npm run dev
+```
+    
+## Related
 
-npm install
+Here's where the idea of the project come from
 
-npm run dev
+[Vue Mini Shop](https://github.com/BosNaufal/vue-mini-shop)
+
+
+## 🚀 About Me
+I'm a full stack developer...
+
