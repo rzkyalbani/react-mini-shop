@@ -34,8 +34,3 @@ Install my-project with npm
 Here's where the idea of the project come from
 
 [Vue Mini Shop](https://github.com/BosNaufal/vue-mini-shop)
-
-
-## 🚀 About Me
-I'm a full stack developer...
-
